@@ -13,7 +13,7 @@ const ShowTask = () => {
 
     const DeleteTask=async(id)=>
     {
-        alert(id)//לבדיקה לא לשכוח למחוק!
+     
       await RemoveReact(id)
       dispatch(deleteTask(id))
     }
