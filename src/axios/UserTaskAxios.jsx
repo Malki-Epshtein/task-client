@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const URL= "https://localhost:7207/api/UserTaskControllers/"
+const URL= "https://task-server-jf3v.onrender.com/"
 
 //1.1
 export const GetUserTaskReakt=()=>
