@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const URL= "https://task-server-jf3v.onrender.com/"
+const URL= "https://task-server-1-uwev.onrender.com/"
 
 //1.1
 export const GetKindTaskReakt=()=>
